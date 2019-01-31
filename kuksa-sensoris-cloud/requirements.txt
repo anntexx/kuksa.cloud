@@ -1,0 +1,3 @@
+websocket-client==0.54.0     # websocket client lib required for testing
+websockets==7.0              # wbesocket lib to create server
+pytest==4.2.0                # test framework for unit and integration tests
