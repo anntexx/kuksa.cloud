@@ -16,3 +16,7 @@ gradle-app.setting
 # Maven
 target/
 
+# Ignore the Sensoris sources which should not be checked in
+sensoris-v1.0.0/**/*.proto
+
+
